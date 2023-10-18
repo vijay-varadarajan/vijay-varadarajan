@@ -81,9 +81,9 @@ Solving rubix cubes to take a break when I have been coding for too long relaxes
 
 ### 🚀 My Projects ...
 [![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=github_dark)](https://www.vedassist.co)
-[![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=github_dark)](relay-coding.vercel.app)
+[![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=github_dark)](https://relay-coding.vercel.app)
 [![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=github_dark)](https://flower-recognition-5.streamlit.app/)
-[![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=github_dark)](vetconnect.pythonanywhere.com)
+[![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=github_dark)](https://vetconnect.pythonanywhere.com)
 
 #### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH-GHW) ...
 [![An image of @vijayvaradarajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayvaradarajan)](https://holopin.io/@vijayvaradarajan)
