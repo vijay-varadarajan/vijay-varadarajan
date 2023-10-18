@@ -63,7 +63,7 @@ I'm open to collaborating on exciting projects related to both **Web Dev** and *
   <img src="icons8-figma.svg" alt="Git" width=39px height=39px />
 </p>
 
-#### 📲 Databases
+#### 🗃 Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="databases" width=82px height=40px />
   <img src="icons8-postgres.svg" alt="Postgres" width=42px height=40px />
@@ -73,17 +73,19 @@ I'm open to collaborating on exciting projects related to both **Web Dev** and *
 ### 🎉 Fun fact ...
 Solving rubix cubes to take a break when I have been coding for too long relaxes me !!
 
-### My Stats ...
+### 📊 My Stats ...
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-varadarajan&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-varadarajan&size_weight=0.5&count_weight=1&layout=donut&theme=github_dark&hide_border=true)
 
 <hr>
 
-### My Projects ...
+### 🚀 My Projects ...
 [![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=github_dark)](https://www.vedassist.co)
 [![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=github_dark)](https://www.relay-coding.vercel.app)
 [![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=github_dark)](https://flower-recognition-5.streamlit.app/)
 [![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=github_dark)](https://www.vetconnect.pythonanywhere.com)
 
-#### My Holopin badges (from Hacktoberfest'23 and MLH-GHW) ...
+#### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH-GHW) ...
 [![An image of @vijayvaradarajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayvaradarajan)](https://holopin.io/@vijayvaradarajan)
+
+<p align="center">⚡ Committed to progress </p>
