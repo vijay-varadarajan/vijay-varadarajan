@@ -6,6 +6,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vijay-varadarajan?labelColor=yellow&color=grey&link=https://www.github.com/vijay-varadarajan" />
   <img alt="Language count" src="https://img.shields.io/badge/languages-7-9944ff?labelColor=9944ff&color=grey">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCU5QMCDNBZKm9YLQqyaNfGQ?style=flat&labelColor=red&color=grey&link=https%3A%2F%2Fwww.youtube.com%2F%40vijayvaradarajan84">
+  <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/pip?labelColor=blue&color=grey">
 </p>
 
 <p align="center">
