@@ -1,7 +1,8 @@
-<h1 align="center">BONJOUR ⚡</h1>
-<h2 align="center">This is Vijay Varadarajan</h2>
+<p><b>⚡ Bonjour,</b></p>
+<h1 align="center">This is Vijay Varadarajan</h1>
 
 <p align="center">
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=vijay-varadarajan" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/vijay-varadarajan?labelColor=00cc88&color=grey&link=https://www.github.com/vijay-varadarajan" />
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vijay-varadarajan?labelColor=yellow&color=grey&link=https://www.github.com/vijay-varadarajan" />
   <img alt="Language count" src="https://img.shields.io/badge/languages-7-9944ff?labelColor=9944ff&color=grey">
