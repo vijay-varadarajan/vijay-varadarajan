@@ -1,8 +1,8 @@
-<p><b>⚡ Bonjour,</b></p>
+<p><b>⚡ Bonjour</b></p>
 <h1 align="center">This is Vijay Varadarajan</h1>
 
 <p align="center">
-  <img alt="Views" src="https://komarev.com/ghpvc/?username=vijay-varadarajan" />
+  <!--<img alt="Views" src="https://komarev.com/ghpvc/?username=vijay-varadarajan" />-->
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/vijay-varadarajan?labelColor=00cc88&color=grey&link=https://www.github.com/vijay-varadarajan" />
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vijay-varadarajan?labelColor=yellow&color=grey&link=https://www.github.com/vijay-varadarajan" />
   <img alt="Language count" src="https://img.shields.io/badge/languages-7-9944ff?labelColor=9944ff&color=grey">
@@ -11,20 +11,37 @@
 </p>
 
 <p align="center">
-  <h4> FIND ME HERE: </h4>
+  <a href="https://www.linkedin.com/in/vijay-varadarajan-630597200/"><img alt="LinkedIn" src="LinkedIN.svg" width=35px height=30px></a>
+  <a href="mailto:vijayvaradarajan84@gmail.com"><img alt="Gmail" src="Gmail.svg" width=35px height=30px></a>
+  <a href="https://www.discordapp.com/users/811927228983934976"><img alt="Discord" src="Discord.svg" width=35px height=30px></a>
+  <a href="https://www.youtube.com/@vijayvaradarajan84"><img alt="Youtube" src="Youtube.svg" width=35px height=30px></a>
+  <a href="https://www.instagram.com/_this.is.vj/"><img alt="Instagram" src="Instagram.svg" width=35px height=30px></a>
+  <a href="https://t.me/this_is_vijay"><img alt="Telegram" src="Telegram.svg" width=35px height=30px></a>
 </p>
 
-### MY STACK:
-#### Languages
+## 👋 About myself ...
+
+I'm a dedicated and passionate university student currently in my sophomore year, majoring in Computer Science. My journey in the tech world has led me to specialize in **Python web development**, focussing on **Django**, **Flask** and **Streamlit**.I have an unwavering passion for **Machine Learning** and as for **hackathons**, you'll find me in the front row, ready to code my way to victory.
+
+#### 🌱 I’m currently learning ...
+
+I'm currently delving deeper into the realms of Machine Learning, exploring **Deep Learning** and **Computer Vision**, and keeping up with the latest trends and developments in the field of **AI**.
+
+#### 👯 I’m looking to collaborate on ...
+
+I'm open to collaborating on exciting projects related to both **Web Dev** and **Machine Learning**. I am looking forward to participating in more **hackathons** and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
+
+## 💡 My Tech Stack:
+#### 💽 Languages
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,java)
-#### Technologies
+#### 🛰 Technologies
 ![My Tech](https://skillicons.dev/icons?i=git,github,vscode,docker,figma)
-#### Frameworks
+#### 📚 Frameworks
 ![My Frameworks](https://skillicons.dev/icons?i=django,flask,react,tensorflow)
-#### Databases
+#### 📲 Databases
 ![My Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-varadarajan&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-varadarajan&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-varadarajan&size_weight=0.5&count_weight=1&layout=donut&theme=github_dark)
 
 <!--
@@ -39,7 +56,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...💺📳💻📱⏰
 -->
 
 [![An image of @vijayvaradarajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayvaradarajan)](https://holopin.io/@vijayvaradarajan)
