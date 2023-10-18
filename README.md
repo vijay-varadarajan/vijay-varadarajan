@@ -88,4 +88,4 @@ Solving rubix cubes to take a break when I have been coding for too long relaxes
 #### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH-GHW) ...
 [![An image of @vijayvaradarajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayvaradarajan)](https://holopin.io/@vijayvaradarajan)
 
-<p align="center">⚡ Committed to progress </p>
+<p align="center"><b>⚡ Committed to progress </b></p>
