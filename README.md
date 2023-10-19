@@ -2,7 +2,7 @@
 <h1 align="center">This is VIJAY</h1>
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/vijay-varadarajan/vijay-varadarajan?labelColor=04a1c4&color=grey" alt="Visitors badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vijay-varadarajan.vijay-varadarajan&left_color=blue&right_color=grey" alt="Visitors badge" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/vijay-varadarajan?labelColor=00cc88&color=grey&link=https://www.github.com/vijay-varadarajan" />
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vijay-varadarajan?labelColor=yellow&color=grey&link=https://www.github.com/vijay-varadarajan" />
   <img alt="Language count" src="https://img.shields.io/badge/languages-7-9944ff?labelColor=9944ff&color=grey">
@@ -22,15 +22,27 @@
 
 ## 👋 About myself ...
 
-I'm a dedicated and passionate university student currently in my sophomore year, majoring in Computer Science. My journey in the tech world has led me to specialize in **Python web development**, focussing on **Django**, **Flask** and **Streamlit**.I have an unwavering passion for **Machine Learning** and as for **hackathons**, you'll find me in the front row, ready to code my way to victory.
+**Web development** | **Machine Learning** | **Deep Learning** | **Problem Solving** | **Hackathon freak**
 
-#### 🌱 I’m currently learning ...
+- Dedicated and passionate university student currently in my **sophomore year**, majoring in Computer Science. 
+- Passinate about **Python based Web Dev**, **Machine Learning**, **Deep learning**
+- **Hackathons**? Count me in !!
 
-I'm currently delving deeper into the realms of Machine Learning, exploring **Deep Learning** and **Computer Vision**, and keeping up with the latest trends and developments in the field of **AI**.
+<details>
+<summary><h2> 📊 My Stats ...</h2></summary>
+  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-varadarajan&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark&custom_title=My%20Github%20Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-varadarajan&size_weight=0.5&count_weight=1&layout=donut&theme=github_dark&hide_border=true)
+
+</details>
+
+#### 🌱 I’m currently ...
+
+... delving deeper into the realms of Machine Learning, exploring **Deep Learning** and **Computer Vision**, and keeping up with the latest trends and developments in the field of **AI**.
 
 #### 👯 I’m looking to collaborate on ...
 
-I'm open to collaborating on exciting projects related to both **Web Dev** and **Machine Learning**. I am looking forward to participating in more **hackathons** and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
+... exciting projects related to both **Web Dev** and **Machine Learning**. I am looking forward to participating in more **hackathons** and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
 
 ## 💡 My Stack ...
 #### 💽 Languages
@@ -69,20 +81,23 @@ I'm open to collaborating on exciting projects related to both **Web Dev** and *
   <img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="databases" width=82px height=40px />
   <img src="icons8-postgres.svg" alt="Postgres" width=42px height=40px />
 </p>
-<hr>
 
-### 🎉 Fun fact ... 
-<p>Solving rubik's cubes <img src="icons8-rubik’s-cube-64.png" alt="" width=26px height=26px /> is my favourite way to relax, after long hours of coding !!</p>
-
-## 📊 My Stats ...
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-varadarajan&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark&custom_title=My%20Github%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-varadarajan&size_weight=0.5&count_weight=1&layout=donut&theme=github_dark&hide_border=true)
-
-## 🚀 My Projects ...
+<details>
+<summary>
+  
+## 🚀 My Best Projects ...
+</summary>
+  
 [![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=apprentice)](https://www.vedassist.co)
 [![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=dark)](https://relay-coding.vercel.app)
 [![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=dark)](https://flower-recognition-5.streamlit.app/)
 [![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=dark)](https://vetconnect.pythonanywhere.com)
+
+</details>
+
+___
+### 🎉 Fun fact ... 
+<p>Solving rubik's cubes <img src="icons8-rubik’s-cube-64.png" alt="" width=26px height=26px /> is my favourite way to relax, after long hours of coding !!</p>
 
 ### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH) ...
 [![An image of @vijayvaradarajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayvaradarajan)](https://holopin.io/@vijayvaradarajan)
