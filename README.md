@@ -32,7 +32,7 @@ I'm currently delving deeper into the realms of Machine Learning, exploring **De
 
 I'm open to collaborating on exciting projects related to both **Web Dev** and **Machine Learning**. I am looking forward to participating in more **hackathons** and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
 
-## 💡 My Tech Stack ...
+## 💡 My Stack ...
 #### 💽 Languages
 <p align="left">
   <img src="icons8-c-programming.svg" alt="C programming" width=40px height=40px />
@@ -41,8 +41,8 @@ I'm open to collaborating on exciting projects related to both **Web Dev** and *
   <img src="icons8-html.svg" alt="HTML" width=40px height=40px />
   <img src="icons8-css.svg" alt="CSS" width=40px height=40px />
   <img src="icons8-javascript.svg" alt="JS" width=40px height=40px />
-  <img src="icons8-sql-64.png" alt="" width=40px height=40px /> 
   <img src="icons8-java.svg" alt="Java" width=40px height=40px />
+  <img src="icons8-sql-64 (2).png" alt="" width=38px height=38px /> 
 </p>
 
 #### 📚 Frameworks
