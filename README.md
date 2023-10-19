@@ -41,6 +41,7 @@ I'm open to collaborating on exciting projects related to both **Web Dev** and *
   <img src="icons8-html.svg" alt="HTML" width=40px height=40px />
   <img src="icons8-css.svg" alt="CSS" width=40px height=40px />
   <img src="icons8-javascript.svg" alt="JS" width=40px height=40px />
+  <img src="icons8-sql-64.png" alt="" width=40px height=40px /> 
   <img src="icons8-java.svg" alt="Java" width=40px height=40px />
 </p>
 
@@ -70,22 +71,20 @@ I'm open to collaborating on exciting projects related to both **Web Dev** and *
 </p>
 <hr>
 
-### 🎉 Fun fact ...
-Solving rubix cubes to take a break when I have been coding for too long relaxes me !!
+### 🎉 Fun fact ... 
+<p>Solving rubik's cubes <img src="icons8-rubik’s-cube-64.png" alt="" width=26px height=26px /> is my favourite way to relax, when I have been coding for too long !!</p>
 
-### 📊 My Stats ...
+## 📊 My Stats ...
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-varadarajan&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark&custom_title=My%20Github%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-varadarajan&size_weight=0.5&count_weight=1&layout=donut&theme=github_dark&hide_border=true)
 
-<hr>
-
-### 🚀 My Projects ...
+## 🚀 My Projects ...
 [![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=apprentice)](https://www.vedassist.co)
-[![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=vision-friendly-dark)](https://relay-coding.vercel.app)
-[![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=chartreuse-dark)](https://flower-recognition-5.streamlit.app/)
-[![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=holi)](https://vetconnect.pythonanywhere.com)
+[![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=dark)](https://relay-coding.vercel.app)
+[![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=dark)](https://flower-recognition-5.streamlit.app/)
+[![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=dark)](https://vetconnect.pythonanywhere.com)
 
-#### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH-GHW) ...
+### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH-GHW) ...
 [![An image of @vijayvaradarajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayvaradarajan)](https://holopin.io/@vijayvaradarajan)
 
 <p align="center"><b>⚡ Committed to progress </b></p>
