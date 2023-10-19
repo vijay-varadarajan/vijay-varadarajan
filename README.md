@@ -1,5 +1,5 @@
 <p><b>⚡ Bonjour !!</b></p>
-<h1 align="center">This is Vijay</h1>
+<h1 align="center">This is VIJAY</h1>
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/vijay-varadarajan/vijay-varadarajan?labelColor=04a1c4&color=grey" alt="Visitors badge" />
