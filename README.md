@@ -1,5 +1,5 @@
 <p><b>⚡ Bonjour !!</b></p>
-<h1 align="center">This is Vijay Varadarajan</h1>
+<h1 align="center">This is Vijay</h1>
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/vijay-varadarajan/vijay-varadarajan?labelColor=04a1c4&color=grey" alt="Visitors badge" />
@@ -72,7 +72,7 @@ I'm open to collaborating on exciting projects related to both **Web Dev** and *
 <hr>
 
 ### 🎉 Fun fact ... 
-<p>Solving rubik's cubes <img src="icons8-rubik’s-cube-64.png" alt="" width=26px height=26px /> is my favourite way to relax, when I have been coding for too long !!</p>
+<p>Solving rubik's cubes <img src="icons8-rubik’s-cube-64.png" alt="" width=26px height=26px /> is my favourite way to relax, after long hours of coding !!</p>
 
 ## 📊 My Stats ...
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-varadarajan&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark&custom_title=My%20Github%20Stats)
@@ -84,7 +84,7 @@ I'm open to collaborating on exciting projects related to both **Web Dev** and *
 [![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=dark)](https://flower-recognition-5.streamlit.app/)
 [![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=dark)](https://vetconnect.pythonanywhere.com)
 
-### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH-GHW) ...
+### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH) ...
 [![An image of @vijayvaradarajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayvaradarajan)](https://holopin.io/@vijayvaradarajan)
 
 <p align="center"><b>⚡ Committed to progress </b></p>
