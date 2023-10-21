@@ -1,5 +1,9 @@
-<p><b>⚡ Bonjour !!</b></p>
-<h1 align="center">This is VIJAY</h1>
+<p><b>⚡ Bonjour !!</b>
+
+  <h2 align=center>
+<img src="https://readme-typing-svg.demolab.com/?lines=This is VIJAY&font=Fira%20Code&center=true&vCenter=true&multiline=true&width=380&height=42&duration=3000&pause=800&repeat=false&color=157FF7&size=28&weight=600" alt="Example Usage - README Typing SVG">
+  </h2>
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vijay-varadarajan.vijay-varadarajan&left_color=blue&right_color=grey" alt="Visitors badge" />
@@ -82,11 +86,11 @@
   <img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="databases" width=82px height=40px />
   <img src="icons8-postgres.svg" alt="Postgres" width=42px height=40px />
 </p>
-
+<h2></h2>
 <details>
 <summary>
   
-## 🚀 My Best Projects ...
+## 🚀 My Projects ...
 </summary>
   
 [![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=apprentice)](https://www.vedassist.co)
@@ -96,7 +100,6 @@
 
 </details>
 
-___
 ### 🎉 Fun fact ... 
 <p>Solving rubik's cubes <img src="icons8-rubik’s-cube-64.png" alt="" width=26px height=26px /> is my favourite way to relax, after long hours of coding !!</p>
 
