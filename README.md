@@ -25,10 +25,10 @@
 
 ## 👋 About myself ...
 
-**Web development** | **Machine Learning** | **Deep Learning** | **Problem Solving** | **Hackathon freak**
+**Web developer** | **ML Enthusiast** | **Problem Solver** | **Hackathon freak**
 
 - Dedicated and passionate university student currently in my **sophomore year**, majoring in Computer Science. 
-- Passinate about **Python based Web Dev**, **Machine Learning**, **Deep learning**
+- Passionate about **Python based Web Dev**, **Machine Learning**, **Deep learning**
 - **Hackathons**? Count me in !!
 
 <details>
