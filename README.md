@@ -85,19 +85,13 @@
   <img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="databases" width=82px height=40px />
   <img src="icons8-postgres.svg" alt="Postgres" width=42px height=40px />
 </p>
-<h2></h2>
-<details>
-<summary>
-  
+
 ## 🚀 My Projects ...
-</summary>
   
 [![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=apprentice)](https://www.vedassist.co)
 [![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=dark)](https://relay-coding.vercel.app)
 [![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=dark)](https://flower-recognition-5.streamlit.app/)
 [![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=dark)](https://vetconnect.pythonanywhere.com)
-
-</details>
 
 ### 🎉 Fun fact ... 
 <p>Solving rubik's cubes <img src="icons8-rubik’s-cube-64.png" alt="" width=26px height=26px /> is my favourite way to relax, after long hours of coding !!</p>
