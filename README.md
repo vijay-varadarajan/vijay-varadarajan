@@ -27,7 +27,7 @@
 
 **Web developer** | **ML Enthusiast** | **Problem Solver** | **Hackathon freak**
 
-- Dedicated and passionate university student currently in my **sophomore year**, majoring in Computer Science. 
+- Dedicated computer science student currently in my **sophomore year**.
 - Passionate about **Python based Web Dev**, **Machine Learning**, **Deep learning**
 - **Hackathons**? Count me in !!
 
@@ -86,15 +86,23 @@
   <img src="icons8-postgres.svg" alt="Postgres" width=42px height=40px />
 </p>
 
-## 🚀 My Projects ...
+<details>
+  <summary>
+    
+  ## 🚀 My Projects ...
+  </summary>
+
   
 [![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=apprentice)](https://www.vedassist.co)
 [![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=dark)](https://relay-coding.vercel.app)
 [![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=dark)](https://flower-recognition-5.streamlit.app/)
 [![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=dark)](https://vetconnect.pythonanywhere.com)
+</details>
+<h2></h2>
 
 ### 🎉 Fun fact ... 
 <p>Solving rubik's cubes <img src="icons8-rubik’s-cube-64.png" alt="" width=26px height=26px /> is my favourite way to relax, after long hours of coding !!</p>
+<h2></h2>
 
 ### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH) ...
 [![An image of @vijayvaradarajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayvaradarajan)](https://holopin.io/@vijayvaradarajan)
