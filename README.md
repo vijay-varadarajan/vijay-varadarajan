@@ -1,6 +1,6 @@
 <p><b>⚡ Bonjour !!</b>
   <h2 align=center>
-<img src="https://readme-typing-svg.demolab.com/?lines=This is VIJAY&font=Fira%20Code&center=true&repeat=false&vCenter=true&multiline=true&width=220&height=42&duration=3000&pause=600&color=157FF7&size=28&weight=600" alt="Example Usage - README Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=This is VIJAY&font=Fira%20Code&center=true&repeat=false&vCenter=true&multiline=true&width=220&height=42&duration=3000&pause=600&color=159FF7&size=28&weight=600" alt="Example Usage - README Typing SVG">
   </h2>
 </p>
 
