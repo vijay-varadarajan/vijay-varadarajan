@@ -66,6 +66,7 @@
   <img src="icons8-git.svg" alt="Git" width=41px height=39px />
   <img src="icons8-github (1).svg" alt="Github" width=41px height=39px />
   <img src="icons8-visual-studio-code.svg" alt="Git" width=41px height=39px />
+  <img src="icon-vercel.svg" alt="Git" width=28px height=28px />
   <img src="icons8-docker.svg" alt="Git" width=41px height=39px />
   <img src="icons8-figma.svg" alt="Git" width=39px height=39px />
 </p>
