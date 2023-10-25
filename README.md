@@ -66,7 +66,7 @@
   <img src="icons8-git.svg" alt="Git" width=41px height=39px />
   <img src="icons8-github (1).svg" alt="Github" width=41px height=39px />
   <img src="icons8-visual-studio-code.svg" alt="Git" width=41px height=39px />
-  <img src="icon-vercel.svg" alt="Git" width=28px height=28px />
+  <img src="icons8-colaboratory.svg" alt="Git" width=41px height=39px />
   <img src="icons8-docker.svg" alt="Git" width=41px height=39px />
   <img src="icons8-figma.svg" alt="Git" width=39px height=39px />
 </p>
@@ -75,6 +75,7 @@
 <p align="left">
   <img src="icons8-flask (3).svg" alt="Flask" width=42px height=40px />
   <img width=42px height=40px src="https://skillicons.dev/icons?i=django" alt="django"/>
+  <img src="icons8-bootstrap.svg" alt="Tensorflow" width=42px height=40px />
   <img src="icons8-tensorflow.svg" alt="Tensorflow" width=42px height=40px />
   <img src="icons8-opencv.svg" alt="Open CV" width=42px height=40px />
 </p>
