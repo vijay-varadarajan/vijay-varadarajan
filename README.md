@@ -61,16 +61,6 @@
   <img src="icons8-sql-64 (2).png" alt="" width=38px height=38px /> 
 </p>
 
-#### 📚 Frameworks
-<p align="left">
-  <img src="icons8-flask (3).svg" alt="Flask" width=42px height=40px />
-  <img width=42px height=40px src="https://skillicons.dev/icons?i=django" alt="django"/>
-  <img src="icons8-bootstrap.svg" alt="Bootstrap" width=42px height=40px />
-  <img src="icons8-react-native.svg" alt="React" width=42px height=40px />
-  <img src="icons8-tensorflow.svg" alt="Tensorflow" width=42px height=40px />
-  <img src="icons8-opencv.svg" alt="Open CV" width=42px height=40px />
-</p>
-
 #### 🛰 Technologies
 <p align="left">
   <img src="icons8-git.svg" alt="Git" width=41px height=39px />
@@ -78,6 +68,14 @@
   <img src="icons8-visual-studio-code.svg" alt="Git" width=41px height=39px />
   <img src="icons8-docker.svg" alt="Git" width=41px height=39px />
   <img src="icons8-figma.svg" alt="Git" width=39px height=39px />
+</p>
+
+#### 📚 Frameworks
+<p align="left">
+  <img src="icons8-flask (3).svg" alt="Flask" width=42px height=40px />
+  <img width=42px height=40px src="https://skillicons.dev/icons?i=django" alt="django"/>
+  <img src="icons8-tensorflow.svg" alt="Tensorflow" width=42px height=40px />
+  <img src="icons8-opencv.svg" alt="Open CV" width=42px height=40px />
 </p>
 
 #### 🗃 Databases
