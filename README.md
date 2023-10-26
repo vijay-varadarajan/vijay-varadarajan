@@ -23,6 +23,12 @@
   <a href="https://t.me/this_is_vijay"><img alt="Telegram" src="Telegram.svg" width=35px height=30px></a>
 </p>
 
+<p align="center">
+  <a href="https://vijay-varadarajan.github.io/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/My%20Portfolio%20📌-1144ee?style=for-the-badge&link=https%3A%2F%2Fvijay-varadarajan.github.io%2F">
+  </a>
+</p>
+
 ## 👋 About myself ...
 
 **Web developer** | **ML Enthusiast** | **Problem Solver** | **Hackathon freak**
