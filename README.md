@@ -24,9 +24,8 @@
 </p>
 
 <p align="center">
-  <a href="https://vijay-varadarajan.github.io/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/My%20Portfolio%20📌-1144ee?style=for-the-badge&link=https%3A%2F%2Fvijay-varadarajan.github.io%2F">
-  </a>
+  <a href="https://vijay-varadarajan.github.io/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20📌-1144ee?style=for-the-badge&link=https://vijay-varadarajan.github.io"></a>
+  <a href="https://drive.google.com/file/d/1KqHgKtOmCC6_JFJdRC8wowZQI2dCy-ls/view?usp=drive_link" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Resume%20📑-03c34f?style=for-the-badge&link=https://drive.google.com/file/d/1KqHgKtOmCC6_JFJdRC8wowZQI2dCy-ls/view?usp=drive_link"></a>
 </p>
 
 ## 👋 About myself ...
