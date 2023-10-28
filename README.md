@@ -21,6 +21,7 @@
   <a href="https://twitter.com/_vijay_84_"><img alt="X" src="Twitter.svg" width=35px height=30px></a>
   <a href="https://www.instagram.com/_this.is.vj/"><img alt="Instagram" src="Instagram.svg" width=35px height=30px></a>
   <a href="https://t.me/this_is_vijay"><img alt="Telegram" src="Telegram.svg" width=35px height=30px></a>
+  <a href="https://dev.to/vijay-varadarajan"><img alt="DevPost" src="devpost-icon.png" width=35px height=32px></a>
 </p>
 
 <p align="center">
