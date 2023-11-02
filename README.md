@@ -14,14 +14,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vijay-varadarajan-630597200/"><img alt="LinkedIn" src="LinkedIN.svg" width=35px height=30px></a>
-  <a href="mailto:vijayvaradarajan84@gmail.com"><img alt="Gmail" src="Gmail.svg" width=35px height=30px></a>
-  <a href="https://www.youtube.com/@vijayvaradarajan84"><img alt="Youtube" src="Youtube.svg" width=35px height=30px></a>
-  <a href="https://www.discordapp.com/users/811927228983934976"><img alt="Discord" src="Discord.svg" width=35px height=30px></a>
   <a href="https://twitter.com/_vijay_84_"><img alt="X" src="Twitter.svg" width=35px height=30px></a>
-  <a href="https://www.instagram.com/_this.is.vj/"><img alt="Instagram" src="Instagram.svg" width=35px height=30px></a>
   <a href="https://t.me/this_is_vijay"><img alt="Telegram" src="Telegram.svg" width=35px height=30px></a>
-  <a href="https://dev.to/vijay-varadarajan"><img alt="DevPost" src="devpost-icon.png" width=30px height=27px></a>
+  <a href="https://www.discordapp.com/users/811927228983934976"><img alt="Discord" src="Discord.svg" width=35px height=30px></a>
+  <a href="https://www.linkedin.com/in/vijay-varadarajan-630597200/"><img alt="LinkedIn" src="LinkedIN.svg" width=35px height=30px></a>
+  <a href="https://www.youtube.com/@vijayvaradarajan84"><img alt="Youtube" src="Youtube.svg" width=35px height=30px></a>
+  <a href="mailto:vijayvaradarajan84@gmail.com"><img alt="Gmail" src="Gmail.svg" width=35px height=30px></a>
+  <a href="https://www.instagram.com/_this.is.vj/"><img alt="Instagram" src="Instagram.svg" width=35px height=30px></a>
+    <a href="https://dev.to/vijay-varadarajan"><img alt="DevPost" src="Devpost_logo.svg" width=30px height=30px></a>
 </p>
 
 <p align="center">
