@@ -21,12 +21,11 @@
   <a href="https://twitter.com/_vijay_84_"><img alt="X" src="Twitter.svg" width=35px height=30px></a>
   <a href="https://www.instagram.com/_this.is.vj/"><img alt="Instagram" src="Instagram.svg" width=35px height=30px></a>
   <a href="https://t.me/this_is_vijay"><img alt="Telegram" src="Telegram.svg" width=35px height=30px></a>
-  <a href="https://dev.to/vijay-varadarajan"><img alt="DevPost" src="devpost-icon.png" width=35px height=32px></a>
+  <a href="https://dev.to/vijay-varadarajan"><img alt="DevPost" src="devpost-icon.png" width=30px height=27px></a>
 </p>
 
 <p align="center">
-  <a href="https://vijay-varadarajan.github.io/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20📌-1144ee?style=for-the-badge&link=https://vijay-varadarajan.github.io"></a>
-  <a href="https://drive.google.com/file/d/1KqHgKtOmCC6_JFJdRC8wowZQI2dCy-ls/view?usp=drive_link" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Resume%20📑-03c34f?style=for-the-badge&link=https://drive.google.com/file/d/1KqHgKtOmCC6_JFJdRC8wowZQI2dCy-ls/view?usp=drive_link"></a>
+  <a href="https://vijay-varadarajan.github.io/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20📌-1144ff?style=for-the-badge&link=https://vijay-varadarajan.github.io"></a>
 </p>
 
 ## 👋 About myself ...
