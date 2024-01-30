@@ -36,13 +36,11 @@
 - Passionate about **Python based Web Dev**, **Machine Learning**, **Deep learning**
 - **Hackathons**? Count me in !!
 
-<details>
-<summary><h2> 📊 My Stats ...</h2></summary>
+<h2> 📊 My Stats ...</h2>
   
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-varadarajan&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark&custom_title=My%20Github%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-varadarajan&size_weight=0.5&count_weight=1&layout=donut&theme=github_dark&hide_border=true)
 
-</details>
 
 #### 🌱 I’m currently ...
 
