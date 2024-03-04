@@ -88,18 +88,16 @@
   <img src="icons8-postgres.svg" alt="Postgres" width=42px height=40px />
 </p>
 
-<details>
-  <summary>
     
   ## 🚀 My Projects ...
-  </summary>
+
 
   
 [![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=apprentice)](https://www.vedassist.co)
 [![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=dark)](https://relay-coding.vercel.app)
 [![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=dark)](https://flower-recognition-5.streamlit.app/)
 [![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=dark)](https://vetconnect.pythonanywhere.com)
-</details>
+
 <h2></h2>
 
 ### 🎉 Fun fact ... 
