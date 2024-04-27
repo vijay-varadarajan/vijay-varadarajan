@@ -92,10 +92,11 @@
   ## 🚀 My Projects ...
 
 
-  
-[![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=apprentice)](https://www.vedassist.co)
+[![Sociovate-Portal](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=sociovate-portal&theme=dark)](https://sociovate.co)
+[![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=dark)](https://ved-assist.vercel.app)
 [![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=dark)](https://relay-coding.vercel.app)
 [![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=dark)](https://flower-recognition-5.streamlit.app/)
+[![Heart-failure-predictor](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=Heart-failure-predictor&theme=dark)](https://heart-failure-risk-predictor.streamlit.app/)
 [![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=dark)](https://vetconnect.pythonanywhere.com)
 
 <h2></h2>
