@@ -32,8 +32,8 @@
 
 **Web developer** | **ML Enthusiast** | **Problem Solver** | **Hackathon freak**
 
-- Dedicated computer science student currently in my **sophomore year**.
-- Passionate about **Python based Web Dev**, **Machine Learning**, **Deep learning**
+- Dedicated computer science student currently in my **pre-final year**.
+- Passionate about **Web Development**, **Machine Learning**, **Deep learning**
 - **Hackathons**? Count me in !!
 
 <h2> 📊 My Stats ...</h2>
