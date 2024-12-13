@@ -36,12 +36,6 @@
 - Passionate about **Web Development**, **Machine Learning**, **Deep learning**
 - **Hackathons**? Count me in !!
 
-<h2> 📊 My Stats ...</h2>
-  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-varadarajan&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark&custom_title=My%20Github%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-varadarajan&size_weight=0.5&count_weight=1&layout=donut&theme=github_dark&hide_border=true)
-
-
 #### 🌱 I’m currently ...
 
 ... delving deeper into the realms of Machine Learning, exploring **Deep Learning** and **Computer Vision**, and keeping up with the latest trends and developments in the field of **AI**.
@@ -49,6 +43,12 @@
 #### 👯 I’m looking to collaborate on ...
 
 ... exciting projects related to both **Web Dev** and **Machine Learning**. I am looking forward to participating in more **hackathons** and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
+
+<h2> 📊 My Stats ...</h2>
+  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-varadarajan&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark&custom_title=My%20Github%20Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-varadarajan&size_weight=0.5&count_weight=1&layout=donut&theme=github_dark&hide_border=true)
+
 
 ## 💡 My Stack ...
 #### 💽 Languages
@@ -103,6 +103,12 @@
 
 ### 🎉 Fun fact ... 
 <p>Solving rubik's cubes <img src="icons8-rubik’s-cube-64.png" alt="" width=26px height=26px /> is my favourite way to relax, after long hours of coding !!</p>
+<h2></h2>
+
+### 🏆 My GitHub trophies...
+
+![trophy](https://github-profile-trophy.vercel.app/?username=vijay-varadarajan&rank=-C&title=-Reviews&theme=darkhub)
+
 <h2></h2>
 
 ### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH) ...
