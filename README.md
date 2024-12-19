@@ -93,19 +93,16 @@ Fitness enthusiast, Rubik's cuber, and an avid reader of detective fiction.
 </p>
 
 
-<h2></h2>
-
-### 🎉 Fun fact ... 
+## 🎉 Fun fact ... 
 <p>Solving rubik's cubes <img src="icons8-rubik’s-cube-64.png" alt="" width=26px height=26px /> is my favourite way to relax, after long hours of coding !!</p>
-<h2></h2>
 
-### 🏆 My GitHub trophies...
+
+## 🏆 My GitHub trophies...
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vijay-varadarajan&rank=-C&title=-Reviews&theme=darkhub)
 
-<h2></h2>
 
-### 🧩 My Holopin badges (from Hacktoberfest'23 and MLH) ...
+## 🧩 My Holopin badges (from Hacktoberfest'23 and MLH) ...
 [![An image of @vijayvaradarajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayvaradarajan)](https://holopin.io/@vijayvaradarajan)
 
 <p align="center"><b>⚡ Committed to progress </b></p>
