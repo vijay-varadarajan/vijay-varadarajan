@@ -30,19 +30,23 @@
 
 ## 👋 About myself ...
 
-**Web developer** | **ML Enthusiast** | **Problem Solver** | **Hackathon freak**
+**Software | Automation | Data Science | Bioinformatics**
 
-- Dedicated computer science student currently in my **pre-final year**.
-- Passionate about **Web Development**, **Machine Learning**, **Deep learning**
-- **Hackathons**? Count me in !!
+Python automation and data science enthusiast. Skilled in building web applications using Python and JavaScript, specializing in back-end development. Experienced in data analytics and machine learning. 
+
+Applying Computer Science techniques in Automation, pipeline building and Bioinformatics.
+
+A strong team player and problem solver, experienced in leading teams in Hackathons and continuously updating my skill set to adapt to the ever-growing tech industry.
+ 
+Fitness enthusiast, Rubik's cuber, and an avid reader of detective fiction.
 
 #### 🌱 I’m currently ...
 
-... delving deeper into the realms of Machine Learning, exploring **Deep Learning** and **Computer Vision**, and keeping up with the latest trends and developments in the field of **AI**.
+... delving deeper into **Automation** using python, **Geospatial analytics** and **Bioionformatics** techniques and technologies
 
 #### 👯 I’m looking to collaborate on ...
 
-... exciting projects related to both **Web Dev** and **Machine Learning**. I am looking forward to participating in more **hackathons** and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
+... exciting projects related to both **Automation**, **Machine Learning** and **Data Analytics**. I am looking forward to learning, gaining more industrial experience and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
 
 <h2> 📊 My Stats ...</h2>
   
@@ -92,12 +96,12 @@
   ## 🚀 My Projects ...
 
 
-[![Sociovate-Portal](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=sociovate-portal&theme=dark)](https://sociovate.co)
+[![Geospatial-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=Geospatial-Analysis&theme=dark)](https://github.com/vijay-varadarajan/Geospatial-Analysis)
+[![Hackoffv4](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=Hackoff-v4-IET&theme=dark)](https://hackoff.ietvit.co)
+[![Gesture-Controls](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=Gesture-Controls&theme=dark)](https://github.com/vijay-varadarajan/Gesture-Controls)
 [![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=dark)](https://ved-assist.vercel.app)
-[![Relay-coding](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=relay-coding&theme=dark)](https://relay-coding.vercel.app)
 [![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=dark)](https://flower-recognition-5.streamlit.app/)
-[![Heart-failure-predictor](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=Heart-failure-predictor&theme=dark)](https://heart-failure-risk-predictor.streamlit.app/)
-[![Vetconnect](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vetconnect&theme=dark)](https://vetconnect.pythonanywhere.com)
+[![Aavin-app-FinflowTech](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=Aavin-app-FinflowTech&theme=dark)](https://aavin-app.onrender.com/)
 
 <h2></h2>
 
