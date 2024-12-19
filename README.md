@@ -92,16 +92,6 @@ Fitness enthusiast, Rubik's cuber, and an avid reader of detective fiction.
   <img src="icons8-postgres.svg" alt="Postgres" width=42px height=40px />
 </p>
 
-    
-  ## 🚀 My Projects ...
-
-
-[![Geospatial-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=Geospatial-Analysis&theme=dark)](https://github.com/vijay-varadarajan/Geospatial-Analysis)
-[![Hackoffv4](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=Hackoff-v4-IET&theme=dark)](https://hackoff.ietvit.co)
-[![Gesture-Controls](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=Gesture-Controls&theme=dark)](https://github.com/vijay-varadarajan/Gesture-Controls)
-[![VedAssist2.0](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=vedassist2&theme=dark)](https://ved-assist.vercel.app)
-[![Flower-recogniser](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=flower-recogniser&theme=dark)](https://flower-recognition-5.streamlit.app/)
-[![Aavin-app-FinflowTech](https://github-readme-stats.vercel.app/api/pin/?username=vijay-varadarajan&repo=Aavin-app-FinflowTech&theme=dark)](https://aavin-app.onrender.com/)
 
 <h2></h2>
 
