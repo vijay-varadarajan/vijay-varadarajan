@@ -1,6 +1,6 @@
 <p><b>⚡ Bonjour !!</b>
   <h2 align=center>
-<img src="https://readme-typing-svg.demolab.com/?lines=This is VIJAY&font=Fira%20Code&center=true&repeat=false&vCenter=true&multiline=true&width=220&height=42&duration=2000&pause=600&color=159FF7&size=28&weight=600" alt="Example Usage - README Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=This is VIJAY&font=Fira%20Code&center=true&repeat=false&vCenter=true&multiline=true&width=220&height=42&duration=2000&pause=600&color=159FF7&size=28&weight=600" alt="This is Vijay">
   </h2>
 </p>
 
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vijay-varadarajan.github.io/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20📌-1144ff?style=for-the-badge&link=https://vijay-varadarajan.github.io"></a>
+  <a href="https://vijayvaradarajan.co" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20📌-1144ff?style=for-the-badge&link=https://vijay-varadarajan.github.io"></a>
 </p>
 
 ## 👋 About myself ...
@@ -42,11 +42,11 @@ Fitness enthusiast, Rubik's cuber, and an avid reader of detective fiction.
 
 #### 🌱 I’m currently ...
 
-... delving deeper into **Automation** using python, **Geospatial analytics** and **Bioionformatics** techniques and technologies
+... delving deeper into **Automation** using python, **Agentic AI** and **Bioionformatics** techniques and technologies
 
 #### 👯 I’m looking to collaborate on ...
 
-... exciting projects related to both **Automation**, **Machine Learning** and **Data Analytics**. I am looking forward to learning, gaining more industrial experience and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
+... exciting projects related to both **Automation**, **Machine Learning** and **AI Agents**. I am looking forward to learning, gaining more industrial experience and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
 
 <h2> 📊 My Stats ...</h2>
   
