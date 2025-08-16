@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vijayvaradarajan.co" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20📌-1144ff?style=for-the-badge&link=https://vijay-varadarajan.github.io"></a>
+  <a href="https://vijayvaradarajan.me" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20📌-1144ff?style=for-the-badge&link=https://vijay-varadarajan.github.io"></a>
 </p>
 
 ## 👋 About myself ...
