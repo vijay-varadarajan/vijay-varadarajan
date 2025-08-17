@@ -1,6 +1,6 @@
 <p><b>⚡ Bonjour !!</b>
   <h2 align=center>
-<img src="https://readme-typing-svg.demolab.com/?lines=This is VIJAY&font=Fira%20Code&center=true&repeat=false&vCenter=true&multiline=true&width=220&height=42&duration=2000&pause=600&color=159FF7&size=28&weight=600" alt="This is Vijay">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&repeat=false&vCenter=true&multiline=true&width=220&height=48&duration=2000&pause=600&color=159FF7&size=28&weight=600&lines=This+Is+Vijay" alt="This is Vijay" />
   </h2>
 </p>
 
@@ -30,11 +30,9 @@
 
 ## 👋 About myself ...
 
-**Software | Automation | Data Science | Bioinformatics**
+**Agentic AI | Data Science | Web development | Bioinformatics**
 
-Python automation and data science enthusiast. Skilled in building web applications using Python and JavaScript, specializing in back-end development. Experienced in data analytics and machine learning. 
-
-Applying Computer Science techniques in Automation, pipeline building and Bioinformatics.
+Agentic AI, automation and data science enthusiast. Skilled in building AI applications using Python frameworks, specialized in Langgraph agents. Experienced in data analytics and machine learning. 
 
 A strong team player and problem solver, experienced in leading teams in Hackathons and continuously updating my skill set to adapt to the ever-growing tech industry.
  
@@ -42,11 +40,11 @@ Fitness enthusiast, Rubik's cuber, and an avid reader of detective fiction.
 
 #### 🌱 I’m currently ...
 
-... delving deeper into **Automation** using python, **Agentic AI** and **Bioionformatics** techniques and technologies
+... delving deeper into **Agentic AI** and **Bioionformatics** tools and techniques
 
 #### 👯 I’m looking to collaborate on ...
 
-... exciting projects related to both **Automation**, **Machine Learning** and **AI Agents**. I am looking forward to learning, gaining more industrial experience and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
+... exciting projects related to both **Web development**, **Machine Learning**, **AI Agents** and **Bioinformatics algorithms**. I am looking forward to learning, gaining more industrial experience and contributing to **open source**. Let's connect, collaborate, and make a significant impact together!
 
 <h2> 📊 My Stats ...</h2>
   
